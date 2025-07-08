@@ -15,7 +15,7 @@ We cover:
 ## 📁 Files
 
 ### `custom_pixel.js`
-JavaScript for the Shopify Custom Pixel. Originally written by [Karol Krajcir](https://karolk.dev), shared with permission via [Analytics Mania](https://www.analyticsmania.com). We've customized it slightly to focus on ecommerce and pageview tracking.
+JavaScript for the Shopify Custom Pixel. Originally written by [Karol Krajcir](https://www.karolkrajcir.com), shared with permission via [Analytics Mania](https://www.analyticsmania.com). We've customized it slightly to focus on ecommerce and pageview tracking.
 
 ### `gtm_container.json`
 A pre-configured Google Tag Manager container export that includes:
